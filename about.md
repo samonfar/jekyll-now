@@ -12,4 +12,4 @@ This is a sample blog Sahar Monfared created as part of Lab 2 of DSCI_511.
 
 ### Contact me
 
-[shaarmonfaredl@gmail.com](mailto:email@domain.com)
+[shaarmonfaredl@gmail.com](mailto:saharmonfared@gmail..com)
