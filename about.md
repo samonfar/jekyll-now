@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a sample blog Sahar Monfared created as part of Lab 2 of DSCI_511.
 
 ### More Information
 
-This is a sample blog Sahar Monfared created as part of Lab 2 of DSCI_511.
+The purpose is to learn how to blog using Github as well as experiment with Markdown.
 
 ### Contact me
 
